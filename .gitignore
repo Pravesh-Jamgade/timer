@@ -4,4 +4,4 @@ env/
 htmlcov/
 .coverage/
 *.pyc
-
+.env
